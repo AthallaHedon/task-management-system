@@ -1,0 +1,20 @@
+[33me167d12[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m add search styling comment
+[33m39ebaa2[m add search input comment
+[33mf32565f[m add search comment
+[33mc5679e6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m resolve: merge UI improvements and colors
+[33m5708e20[m Merge pull request #2 from AthallaHedon/feature/task-search
+[33mb5e5f1a[m[33m ([m[1;31morigin/feature/task-search[m[33m, [m[1;32mfeature/task-search[m[33m)[m Update .gitignore dan styles.css
+[33mc84fd1d[m docs: add comprehensive team collaboration setup
+[33m14554ce[m add search styling comment
+[33m170899f[m add search input comment
+[33m05f62da[m add search comment
+[33m0a52b14[m docs: add comprehensive team collaboration setup
+[33m03f7792[m resolve: merge UI improvements and colors
+[33mc0bc8a5[m feat(ui): improve task item and button styling
+[33m93a0d09[m[33m ([m[1;32mfeature/task-categories[m[33m)[m Merge pull request #1 from AthallaHedon/feature/task-categories
+[33m7f4f493[m[33m ([m[1;31morigin/feature/task-categories[m[33m)[m test(categories): add comprehensive tests for category functionality
+[33mdaa62d7[m feat(categories): add category UI and filtering
+[33m3437d78[m feat(categories): add category management to TaskController
+[33m4e96ee6[m feat(categories): add category filtering to TaskRepository
+[33mbb4c0ee[m feat(categories): add category methods to EnhancedTask model
+[33m6139e90[m feat: initial project setup with Day 1-3 implementation
