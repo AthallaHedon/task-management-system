@@ -292,5 +292,4 @@ function escapeHtml(text) {
 
 // Jalankan aplikasi saat DOM siap
 document.addEventListener('DOMContentLoaded', initializeApp);/ /   S e a r c h   f u n c t i o n a l i t y  
- / /   S e a r c h   f u n c t i o n a l i t y  
  
